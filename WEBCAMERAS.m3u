@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:0,Airport Rhodes
+#EXTINF:0,Rhodes Airport
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=cfd7371f43aeef6ef73ebdb8e8cf6871%3A1553956190636
-#EXTINF:0,Kos - Kardamena
-https://edge01.balticlivecam.com/blc/p_GR_Kos_island_Kardamena_port/tracks-v1/mono.m3u8?token=cf9020029d9a63ba38462474eddcc969%3A1553956189735
-#EXTINF:0,Lindos
+#EXTINF:0,Rhodes Lindos
 https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?token=68aa3c0c2ad7a70eebad5c761ea30a46%3A1553956569119
-#EXTINF:0,Faliraki - Rodos Palladium
+#EXTINF:0,Rhodes Faliraki - Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
-#EXTINF:0,Psaropoula
+#EXTINF:0,Rhodes Psaropoula
 http://s4.ipcamlive.com/streams/045c9c77764b861ec/stream.m3u8
+#EXTINF:0,Kos Kardamena
+https://edge01.balticlivecam.com/blc/p_GR_Kos_island_Kardamena_port/tracks-v1/mono.m3u8?token=cf9020029d9a63ba38462474eddcc969%3A1553956189735
+#EXTINF:0,Kozani Niki's Square
+http://5.189.180.204:8081/live/koza1/chunks.m3u8?nimblesessionid=6570663
+#EXTINF:0,TEST
+https://hddn01.skylinewebcams.com/live.m3u8?a=b3qcs8ta6u92g5qt4bdc43s9q7
