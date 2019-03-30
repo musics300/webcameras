@@ -12,13 +12,15 @@ https://zouglacam-mdc-secure.akamaized.net/zouglalive/kifisias/chunks.m3u8
 #EXTINF:0,Thessaloniki Panorama
 https://pluto6.cybex.gr/hls/mc71249928295934603.m3u8
 #EXTINF:0,Kozani Vlasti
-http://5.189.180.204:8081/live/vlas1/chunks.m3u8?nimblesessionid=6578660
+http://5.189.180.204:8081/live/vlas1/chunks.m3u8?nimblesessionid=6583082
+#EXTINF:0,Kozani Katafigi
+http://5.189.180.204:8081/live/kataf1/chunks.m3u8?nimblesessionid=6583000
 #EXTINF:0,Kozani Neraida
-http://5.189.180.204:8081/live/nera1/chunks.m3u8?nimblesessionid=6578513
+http://5.189.180.204:8081/live/nera1/chunks.m3u8?nimblesessionid=6582968
 #EXTINF:0,Kozani Pentalofos
-http://5.189.180.204:8081/live/penta1/chunks.m3u8?nimblesessionid=6578589
+http://5.189.180.204:8081/live/penta1/chunks.m3u8?nimblesessionid=6583031
 #EXTINF:0,Kozani Niki's Square
-http://5.189.180.204:8081/live/koza1/chunks.m3u8?nimblesessionid=6570663
+http://5.189.180.204:8081/live/koza1/chunks.m3u8?nimblesessionid=6582914
 #EXTINF:0,Kos Kardamena
 https://edge01.balticlivecam.com/blc/p_GR_Kos_island_Kardamena_port/tracks-v1/mono.m3u8?token=cf9020029d9a63ba38462474eddcc969%3A1553956189735
 #EXTINF:0,Piraeus Port 1
