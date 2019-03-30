@@ -1,16 +1,34 @@
 #EXTM3U
-#EXTINF:0,Athens Port of Piraeus
-http://ngx.cr6.streamzilla.xlcdn.com/session/236b8a9774e192e9027826bb9513c51f/sz/streamdays/wowza4/live/aegean-oil/chunklist.m3u8
-#EXTINF:0,Athens Kifisias Avenue College
-https://zouglacam-mdc-secure.akamaized.net/zouglalive/kifisias/chunks.m3u8
 #EXTINF:0,Athens 17klm Athinon Lamias
 https://www.youtube.com/watch?v=wouGQDWPOpY
+#EXTINF:0,Athens AEK Stadium
+https://www.youtube.com/watch?v=jbz4__w3rEc&feature=player_embedded_uturn
+#EXTINF:0,Athens Omonoia
+https://pluto6.cybex.gr/hls/mc112249928295934603.m3u8
+#EXTINF:0,Athens Kifisia
+http://5.189.180.204:8081/live/kifis1/chunks.m3u8?nimblesessionid=6578774
+#EXTINF:0,Athens Kifisias Avenue College
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/kifisias/chunks.m3u8
+#EXTINF:0,Thessaloniki Panorama
+https://pluto6.cybex.gr/hls/mc71249928295934603.m3u8
+#EXTINF:0,Kozani Vlasti
+http://5.189.180.204:8081/live/vlas1/chunks.m3u8?nimblesessionid=6578660
+#EXTINF:0,Kozani Neraida
+http://5.189.180.204:8081/live/nera1/chunks.m3u8?nimblesessionid=6578513
+#EXTINF:0,Kozani Pentalofos
+http://5.189.180.204:8081/live/penta1/chunks.m3u8?nimblesessionid=6578589
 #EXTINF:0,Kozani Niki's Square
 http://5.189.180.204:8081/live/koza1/chunks.m3u8?nimblesessionid=6570663
 #EXTINF:0,Kos Kardamena
 https://edge01.balticlivecam.com/blc/p_GR_Kos_island_Kardamena_port/tracks-v1/mono.m3u8?token=cf9020029d9a63ba38462474eddcc969%3A1553956189735
+#EXTINF:0,Piraeus Port 1
+http://ngx.cr6.streamzilla.xlcdn.com/session/236b8a9774e192e9027826bb9513c51f/sz/streamdays/wowza4/live/aegean-oil/chunklist.m3u8
+#EXTINF:0,Piraeus Port 2
+https://pluto6.cybex.gr/hls/mc32249928295934603.m3u8
 #EXTINF:0,Rhodes Airport
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=cfd7371f43aeef6ef73ebdb8e8cf6871%3A1553956190636
+#EXTINF:0,Rhodes Tourist Port
+https://pluto6.cybex.gr/hls/mc143249928295934603.m3u8
 #EXTINF:0,Rhodes Lindos
 https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?token=68aa3c0c2ad7a70eebad5c761ea30a46%3A1553956569119
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
