@@ -45,4 +45,6 @@ https://s4.ipcamlive.com/streams/045ca4f8e51163c6c/stream.m3u8
 https://www.youtube.com/watch?v=s_i9wfy_8K8
 #EXTINF:0,Rhodes Psaropoula
 http://s4.ipcamlive.com/streams/045c9c77764b861ec/stream.m3u8
+#EXTINF:0,ZTEST
+https://epsilonvod.akamaized.net/s/fhls/p/2299551/sp/229955100/serveFlavor/entryId/1_3x9r07go/v/1/ev/6/flavorId/1_xlw1o88e/name/a.mp4/index.m3u8?__hdnea__=st=1554324815~exp=1554411215~acl=/s/fhls/p/2299551/sp/229955100/serveFlavor/entryId/1_3x9r07go/v/1/ev/6/flavorId/1_*~hmac=eb0bc2c0c15f0993ba63ffc544430ef12bf6a3a32816d481a148a4375b3629f5
 
