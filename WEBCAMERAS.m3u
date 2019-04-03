@@ -3,36 +3,44 @@
 https://www.youtube.com/watch?v=wouGQDWPOpY
 #EXTINF:0,Athens AEK Stadium
 https://www.youtube.com/watch?v=jbz4__w3rEc&feature=player_embedded_uturn
+#EXTINF:0,Athens Imittos
+http://5.189.180.204:8081/live/ymit1/chunks.m3u8
 #EXTINF:0,Athens Omonoia
 https://pluto6.cybex.gr/hls/mc112249928295934603.m3u8
 #EXTINF:0,Athens Kifisia
-http://5.189.180.204:8081/live/kifis1/chunks.m3u8?nimblesessionid=6578774
+http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 #EXTINF:0,Athens Kifisias Avenue College
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/kifisias/chunks.m3u8
 #EXTINF:0,Thessaloniki Panorama
 https://pluto6.cybex.gr/hls/mc71249928295934603.m3u8
 #EXTINF:0,Kozani Vlasti
-http://5.189.180.204:8081/live/vlas1/chunks.m3u8?nimblesessionid=6583082
+http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 #EXTINF:0,Kozani Katafigi
-http://5.189.180.204:8081/live/kataf1/chunks.m3u8?nimblesessionid=6583000
+http://5.189.180.204:8081/live/kataf1/chunks.m3u8
 #EXTINF:0,Kozani Neraida
-http://5.189.180.204:8081/live/nera1/chunks.m3u8?nimblesessionid=6582968
+http://5.189.180.204:8081/live/nera1/chunks.m3u8
 #EXTINF:0,Kozani Pentalofos
-http://5.189.180.204:8081/live/penta1/chunks.m3u8?nimblesessionid=6583031
+http://5.189.180.204:8081/live/penta1/chunks.m3u8
 #EXTINF:0,Kozani Niki's Square
-http://5.189.180.204:8081/live/koza1/chunks.m3u8?nimblesessionid=6582914
+http://5.189.180.204:8081/live/koza1/chunks.m3u8
 #EXTINF:0,Kos Kardamena
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w499648400.m3u8
+#EXTINF:0,Kos Mastihari
+https://www.youtube.com/watch?v=MraGpY70ztY
 #EXTINF:0,Piraeus Port Akti Miaouli
 rtmp://pluto6.cybex.gr/live/mc90250024154520452
 #EXTINF:0,Piraeus Port 2
 https://pluto6.cybex.gr/hls/mc32249928295934603.m3u8
-#EXTINF:0,Rhodes Airport
+#EXTINF:0,Rhodes Airport 1
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=8e8aeacd33d693c7876ac2581edc37d6%3A1554291177706
+#EXTINF:0,Rhodes Airport 2
+https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
 #EXTINF:0,Rhodes Tourist Port
 https://pluto6.cybex.gr/hls/mc143250024154520452.m3u8
 #EXTINF:0,Rhodes Lindos
 https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?token=6cf7e4c223a40b3b786af725c478d0df%3A1554291177695
+#EXTINF:0,Rhodes New Marina
+https://s4.ipcamlive.com/streams/045ca4f8e51163c6c/stream.m3u8
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
 #EXTINF:0,Rhodes Psaropoula
