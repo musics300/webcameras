@@ -30,21 +30,21 @@ https://www.youtube.com/watch?v=MraGpY70ztY
 #EXTINF:0,Piraeus Port Akti Miaouli
 rtmp://pluto6.cybex.gr/live/mc90250024154520452
 #EXTINF:0,Piraeus Port 2
-https://pluto6.cybex.gr/hls/mc32249928295934603.m3u8
+rtmp://pluto6.cybex.gr/live/mc32250025467651765-a
 #EXTINF:0,Rhodes Airport 1
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=8e8aeacd33d693c7876ac2581edc37d6%3A1554291177706
 #EXTINF:0,Rhodes Airport 2
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
 #EXTINF:0,Rhodes Tourist Port
-https://pluto6.cybex.gr/hls/mc143250024154520452.m3u8
+https://pluto6.cybex.gr/hls/mc143250025467651765.m3u8
 #EXTINF:0,Rhodes Lindos
 https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?token=6cf7e4c223a40b3b786af725c478d0df%3A1554291177695
 #EXTINF:0,Rhodes New Marina
-https://s4.ipcamlive.com/streams/045ca4f8e51163c6c/stream.m3u8
+https://s4.ipcamlive.com/streams/045ca625e6946b112/stream.m3u8 
+#EXTINF:0,Rhodes Pefkos
+https://s29.ipcamlive.com/streams/1d5ca6298e0ffebab/stream.m3u8
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
 #EXTINF:0,Rhodes Psaropoula
 http://s4.ipcamlive.com/streams/045c9c77764b861ec/stream.m3u8
-#EXTINF:0,ZTEST
-https://epsilonvod.akamaized.net/s/fhls/p/2299551/sp/229955100/serveFlavor/entryId/1_3x9r07go/v/1/ev/6/flavorId/1_xlw1o88e/name/a.mp4/index.m3u8?__hdnea__=st=1554324815~exp=1554411215~acl=/s/fhls/p/2299551/sp/229955100/serveFlavor/entryId/1_3x9r07go/v/1/ev/6/flavorId/1_*~hmac=eb0bc2c0c15f0993ba63ffc544430ef12bf6a3a32816d481a148a4375b3629f5
 
