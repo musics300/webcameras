@@ -28,9 +28,9 @@ https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunkl
 #EXTINF:0,Kos Mastihari
 https://www.youtube.com/watch?v=MraGpY70ztY
 #EXTINF:0,Piraeus Port Akti Miaouli
-rtmp://pluto6.cybex.gr/live=1/mc90250024154520452
+rtmp://pluto6.cybex.gr/live/mc90250024154520452=1
 #EXTINF:0,Piraeus Port 2
-rtmp://pluto6.cybex.gr/live=1/mc32250025467651765-a
+rtmp://pluto6.cybex.gr/live/mc32250025467651765-a=1
 #EXTINF:0,Rhodes Airport 1
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=8e8aeacd33d693c7876ac2581edc37d6%3A1554291177706
 #EXTINF:0,Rhodes Airport 2
