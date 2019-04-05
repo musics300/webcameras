@@ -34,7 +34,7 @@ https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?tok
 #EXTINF:0,Rhodes Airport 2
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
 #EXTINF:0,Rhodes Tourist Port
-https://pluto6.cybex.gr/hls/mc143250025467651765.m3u8
+http://pluto6.cybex.gr:80/hls/mc143250026780783078.m3u8
 #EXTINF:0,Rhodes Lindos
 https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?token=6cf7e4c223a40b3b786af725c478d0df%3A1554291177695
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
