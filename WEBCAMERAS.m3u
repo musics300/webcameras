@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=Mp_UN8dsQOk
 https://www.youtube.com/watch?v=wouGQDWPOpY
 #EXTINF:0,Athens AEK Stadium
 https://www.youtube.com/watch?v=jbz4__w3rEc&feature=player_embedded_uturn
+#EXTINF:0,Athens Vironas
+http://5.189.180.204:8081/live/vyro1/chunks.m3u8
 #EXTINF:0,Athens Imittos
 http://5.189.180.204:8081/live/ymit1/chunks.m3u8
 #EXTINF:0,Athens Kifisia
