@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Andros
+https://www.youtube.com/watch?v=Mp_UN8dsQOk
 #EXTINF:0,Athens 17klm Athinon Lamias
 https://www.youtube.com/watch?v=wouGQDWPOpY
 #EXTINF:0,Athens AEK Stadium
@@ -33,13 +35,10 @@ rtmp://pluto6.cybex.gr/live/mc32250025467651765-a
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=8e8aeacd33d693c7876ac2581edc37d6%3A1554291177706
 #EXTINF:0,Rhodes Airport 2
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
-#EXTINF:0,Rhodes Tourist Port
-http://pluto6.cybex.gr:80/hls/mc143250026780783078.m3u8
 #EXTINF:0,Rhodes Lindos
 https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?token=6cf7e4c223a40b3b786af725c478d0df%3A1554291177695
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
 #EXTINF:0,Rhodes Psaropoula
 http://s4.ipcamlive.com/streams/045c9c77764b861ec/stream.m3u8
-#EXTINF:0,ZTEST
-https://vid0.radiojar.com/rythmos-tv/Studio/chunk_ctvideo_cfm4s_ridp0va0br553894_cs1486796400_w1074060057_mpd.m4s
+
