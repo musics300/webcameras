@@ -12,7 +12,7 @@ http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 #EXTINF:0,Athens Kifisias Avenue College
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/kifisias/chunks.m3u8
 #EXTINF:0,Thessaloniki Panorama
-https://pluto6.cybex.gr/hls/mc71249928295934603.m3u8
+http://pluto6.cybex.gr:80/hls/mc71250030720177017.m3u8
 #EXTINF:0,Kozani Vlasti
 http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 #EXTINF:0,Kozani Katafigi
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=MraGpY70ztY
 #EXTINF:0,Piraeus Port Akti Miaouli
 rtmp://pluto6.cybex.gr/live/mc90250024154520452
 #EXTINF:0,Piraeus Port 2
-rtmp://pluto6.cybex.gr/live/mc32250025467651765-a
+http://pluto6.cybex.gr:80/hls/mc32250030720177017.m3u8
 #EXTINF:0,Rhodes Airport 1
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=8e8aeacd33d693c7876ac2581edc37d6%3A1554291177706
 #EXTINF:0,Rhodes Airport 2
