@@ -13,8 +13,6 @@ http://5.189.180.204:8081/live/ymit1/chunks.m3u8
 http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 #EXTINF:0,Athens Kifisias Avenue College
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/kifisias/chunks.m3u8
-#EXTINF:0,Thessaloniki Panorama
-http://pluto6.cybex.gr:80/hls/mc71250030720177017.m3u8
 #EXTINF:0,Kozani Vlasti
 http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 #EXTINF:0,Kozani Katafigi
@@ -29,12 +27,8 @@ http://5.189.180.204:8081/live/koza1/chunks.m3u8
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w499648400.m3u8
 #EXTINF:0,Kos Mastihari
 https://www.youtube.com/watch?v=MraGpY70ztY
-#EXTINF:0,Piraeus Port Akti Miaouli
-rtmp://pluto6.cybex.gr/live/mc90250024154520452
-#EXTINF:0,Piraeus Port 2
-http://pluto6.cybex.gr:80/hls/mc32250030720177017.m3u8
 #EXTINF:0,Rhodes Airport 1
-https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=8e8aeacd33d693c7876ac2581edc37d6%3A1554291177706
+https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8
 #EXTINF:0,Rhodes Airport 2
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
 #EXTINF:0,Rhodes Lindos
