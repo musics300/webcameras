@@ -28,11 +28,11 @@ http://5.189.180.204:8081/live/penta1/chunks.m3u8
 #EXTINF:0,Kozani Niki's Square
 http://5.189.180.204:8081/live/koza1/chunks.m3u8
 #EXTINF:0,Kos Kardamena
-https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w499648400.m3u8
+https://edge01.balticlivecam.com/blc/p_GR_Kos_island_Kardamena_port/tracks-v1/mono.m3u8?token=f600ea38ed564d7f2e8f61605eb14a7b%3A1555432062958
 #EXTINF:0,Kos Mastihari
 https://www.youtube.com/watch?v=MraGpY70ztY
 #EXTINF:0,Rhodes Airport 1
-https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8
+https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=2df7add95c8bff5d7c63b225ac758a7b%3A1555432063228
 #EXTINF:0,Rhodes Airport 2
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
 #EXTINF:0,Rhodes Lindos
@@ -40,5 +40,8 @@ https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?toke
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
 #EXTINF:0,Rhodes Psaropoula
-http://s4.ipcamlive.com/streams/045c9c77764b861ec/stream.m3u8
+http://s4.ipcamlive.com/streams/045cb2c5f94c481ac/stream.m3u8
+#EXTINF:0,ZTEST
+https://r4---sn-4vguioxu-5uiz.googlevideo.com/videoplayback?sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&keepalive=yes&beids=9466585&txp=5432432&itag=243&key=yt6&mime=video%2Fwebm&gir=yes&requiressl=yes&initcwndbps=587500&dur=7196.280&aitags=133%2C134%2C160%2C242%2C243%2C278&c=WEB&fvip=4&lmt=1541716096218811&source=youtube&clen=232772554&expire=1555453534&id=o-AANBwn56ID0hNdMwSybeJSMWTc1qNrWyoFx2k48xOBwY&mn=sn-4vguioxu-5uiz%2Csn-nv47ln7e&mm=31%2C29&ip=193.92.239.229&ms=au%2Crdu&ei=_gG2XN3xKtSn1gK7-6qoDQ&mt=1555431814&pl=17&mv=m&ipbits=0&alr=yes&signature=26F02D575D90FE63581ECD54989CA5246E6C4480.88726D33FB8377406103E858A0E341A7EC415B58&cpn=rm0ntcQ2f9BSNjA3&cver=2.20190410&rn=1
+
 
