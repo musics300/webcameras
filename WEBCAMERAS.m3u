@@ -15,6 +15,10 @@ http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/kifisias/chunks.m3u8
 #EXTINF:0,Athens Faliro
 https://www.youtube.com/watch?v=2H8pU4G8hDI
+#EXTINF:0,Thasos
+http://localhost:88/https://www.youtube.com/watch?v=z0sZNeSnqGU
+#EXTINF:0,Ibiza Cafe del Mar
+http://localhost:88/https://www.youtube.com/watch?v=ur7xI2ZKxh0
 #EXTINF:0,Ios
 https://www.youtube.com/watch?v=K2pq8DSsJnc
 #EXTINF:0,Kozani Vlasti
@@ -32,15 +36,15 @@ https://edge01.balticlivecam.com/blc/p_GR_Kos_island_Kardamena_port/tracks-v1/mo
 #EXTINF:0,Kos Mastihari
 https://www.youtube.com/watch?v=MraGpY70ztY
 #EXTINF:0,Rhodes Airport 1
-https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=2df7add95c8bff5d7c63b225ac758a7b%3A1555432063228
-#EXTINF:0,Rhodes Airport 2
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
+#EXTINF:0,Rhodes Airport 2
+https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8
 #EXTINF:0,Rhodes Lindos
-https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?token=6cf7e4c223a40b3b786af725c478d0df%3A1554291177695
+https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
 #EXTINF:0,Rhodes Psaropoula
-http://s4.ipcamlive.com/streams/045cb2c5f94c481ac/stream.m3u8
+http://s4.ipcamlive.com/streams/045cb674ca563f5ae/stream.m3u8
 #EXTINF:0,ZTEST
 https://r1---sn-4vguioxu-5ui6.googlevideo.com/videoplayback?mv=m&mt=1555433204&ms=au%2Crdu&ei=hQe2XJyMDtS91gKI3brQDA&id=o-AI6jNVHxiHW7ppQvRj5ftt38ZQQSfZKcaZtT9FTnIidj&pl=17&source=youtube&dur=8144.480&keepalive=yes&key=yt6&ip=193.92.239.229&mn=sn-4vguioxu-5ui6%2Csn-nv47lnly&mm=31%2C29&signature=891C130913BD8085C18318C6444DF2710AEDA64E.412D54D6E0D46015B4DDD773B5B5041D1302CD1A&pcm2cms=yes&initcwndbps=572500&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278&txp=5432432&lmt=1540172791450177&c=WEB&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&itag=244&expire=1555454949&fvip=1&mime=video%2Fwebm&requiressl=yes&clen=469277418&ipbits=0&gir=yes&beids=9466585&alr=yes&cpn=HzZd-qj7PVFHKcOa&cver=2.20190410&rn=77
 
