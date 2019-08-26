@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Andros
-https://www.youtube.com/watch?v=VvUATY_dvpk
+https://www.youtube.com/watch?v=17OkMWszuCk
 #EXTINF:0,Athens 17klm Athinon Lamias
 https://www.youtube.com/watch?v=wouGQDWPOpY
 #EXTINF:0,Athens AEK Stadium
@@ -9,12 +9,12 @@ https://www.youtube.com/watch?v=jbz4__w3rEc&feature=player_embedded_uturn
 http://5.189.180.204:8081/live/vyro1/chunks.m3u8
 #EXTINF:0,Athens Imittos
 http://5.189.180.204:8081/live/ymit1/chunks.m3u8
-#EXTINF:0,Athens Kifisia
+#EXTINF:0,Athens Kifissia
 http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 #EXTINF:0,Athens Kifisias Avenue College
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/kifisias/chunks.m3u8
 #EXTINF:0,Athens Faliro
-https://www.youtube.com/watch?v=NaLlzhAAnlI
+https://www.youtube.com/watch?v=gTk9yuHDD54
 #EXTINF:0,Thasos
 https://www.youtube.com/watch?v=z0sZNeSnqGU
 #EXTINF:0,Ios
@@ -24,17 +24,17 @@ http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 #EXTINF:0,Kozani Katafigi
 http://5.189.180.204:8081/live/kataf1/chunks.m3u8
 #EXTINF:0,Kozani Neraida
-http://5.189.180.204:8081/live/nera1/chunks.m3u8
+http://5.189.180.20
 #EXTINF:0,Kozani Pentalofos
 http://5.189.180.204:8081/live/penta1/chunks.m3u8
 #EXTINF:0,Kozani Niki's Square
-http://5.189.180.204:8081/live/koza1/chunks.m3u8
+http://5.189.180.204:8
 #EXTINF:0,Kos Kardamena
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w2126916128.m3u8
 #EXTINF:0,Kos Mastihari
 https://www.youtube.com/watch?v=MraGpY70ztY
 #EXTINF:0,Rhodes Airport 1
-https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
+https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport_2/tracks-v1/mono.m3u8
 #EXTINF:0,Rhodes Airport 2
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8
 #EXTINF:0,Rhodes Lindos
@@ -42,5 +42,5 @@ https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
 #EXTINF:0,Rhodes Psaropoula
-http://s4.ipcamlive.com/streams/045cd8a9dd457cae4/stream.m3u8
+http://s4.ipcamlive.com/streams/045d5f85fb82a0515/stream.m3u8
 
