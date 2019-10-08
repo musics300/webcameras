@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=gTk9yuHDD54
 #EXTINF:0,Thasos
 https://www.youtube.com/watch?v=z0sZNeSnqGU
 #EXTINF:0,Ios
-https://www.youtube.com/watch?v=K2pq8DSsJnc
+https://www.youtube.com/watch?v=cdnq2PtV8WA
 #EXTINF:0,Kozani Vlasti
 http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 #EXTINF:0,Kozani Katafigi
@@ -37,6 +37,8 @@ https://www.youtube.com/watch?v=SuET4hFUI6E
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
 #EXTINF:0,Rhodes Airport 2
 https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=aeae99bfd9caf18442a41c95557adb95%3A1570534021735
+#EXTINF:0,Rhodes Airport 3
+https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1241015144.m3u8
 #EXTINF:0,Rhodes Lindos
 https://edge01.balticlivecam.com/blc/p_GR_Rhodos_Lindos/tracks-v1/mono.m3u8?token=74bf632e9139074711f8bac3752d695e%3A1570534058422
 #EXTINF:0,Rhodes Faliraki - Rodos Palladium
