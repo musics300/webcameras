@@ -34,9 +34,9 @@ https://edge01.balticlivecam.com/blc/p_GR_Kos_island_Kardamena_port/tracks-v1/mo
 #EXTINF:0,Kos Mastihari
 https://www.youtube.com/watch?v=SuET4hFUI6E
 #EXTINF:0,Rhodes Airport 1
-https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1262824164.m3u8
+https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport_2/tracks-v1/mono.m3u8?token=560e96ceab5a41c5ba080a2de3964922%3A1571235745520
 #EXTINF:0,Rhodes Airport 2
-https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=aeae99bfd9caf18442a41c95557adb95%3A1570534021735
+https://edge01.balticlivecam.com/blc/p_GR_Rhodes_airport/tracks-v1/mono.m3u8?token=1c6cb7d1687143db8913b45a9997141e%3A1571235590102
 #EXTINF:0,Rhodes Airport 3
 https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1241015144.m3u8
 #EXTINF:0,Rhodes Lindos
