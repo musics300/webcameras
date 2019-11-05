@@ -1,48 +1,48 @@
 #EXTM3U
-#EXTINF:0,Andros
+#EXTINF:0,Άνδρος
 https://www.youtube.com/watch?v=_4J3ymcoP_8
-#EXTINF:0,Athens 17klm Athinon Lamias
+#EXTINF:0,Αθήνα 17ο χλμ Αθηνών Λαμίας
 https://www.youtube.com/watch?v=pHcRtaSNWsQ
-#EXTINF:0,Athens AEK Stadium
+#EXTINF:0,Αθήνα Γήπεδο ΑΕΚ
 https://www.youtube.com/watch?v=jbz4__w3rEc
-#EXTINF:0,Athens Vironas
+#EXTINF:0,Αθήνα Βύρωνας
 http://5.189.180.204:8081/live/vyro1/chunks.m3u8
-#EXTINF:0,Athens Imittos
+#EXTINF:0,Αθήνα Υμηττός
 http://5.189.180.204:8081/live/ymit1/chunks.m3u8
-#EXTINF:0,Athens Kifissia
+#EXTINF:0,Αθήνα Κηφισιά
 http://5.189.180.204:8081/live/kifis1/chunks.m3u8
-#EXTINF:0,Athens Kifisias Avenue College
+#EXTINF:0,Αθήνα Λεωφόρος Κηφισίας Κολλέγιο
 https://www.youtube.com/watch?v=lZVJlxKrrUQ
-#EXTINF:0,Athens Faliro
+#EXTINF:0,Αθήνα Φάληρο
 https://www.youtube.com/watch?v=gTk9yuHDD54
-#EXTINF:0,Thasos
+#EXTINF:0,Θάσος
 https://www.youtube.com/watch?v=z0sZNeSnqGU
-#EXTINF:0,Ios
+#EXTINF:0,Ίος
 https://www.youtube.com/watch?v=cdnq2PtV8WA
-#EXTINF:0,Kozani Vlasti
+#EXTINF:0,Κοζάνη Βλάστη
 http://5.189.180.204:8081/live/vlas1/chunks.m3u8
-#EXTINF:0,Kozani Katafigi
+#EXTINF:0,Κοζάνη Καταφύγι
 http://5.189.180.204:8081/live/kataf1/chunks.m3u8
-#EXTINF:0,Kozani Neraida
+#EXTINF:0,Κοζάνη Νεράιδα
 http://5.189.180.204:8081/live/nera1/chunks.m3u8
-#EXTINF:0,Kozani Pentalofos
+#EXTINF:0,Κοζάνη Πεντάλοφος
 http://5.189.180.204:8081/live/penta1/chunks.m3u8
-#EXTINF:0,Kozani Niki's Square
+#EXTINF:0,Κοζάνη Πλατεία Νίκης
 http://5.189.180.204:8
-#EXTINF:0,Kos Kardamena
+#EXTINF:0,Κως Καρδάμαινα
 https://edge01.balticlivecam.com/blc/p_GR_Kos_island_Kardamena_port/tracks-v1/mono.m3u8?token=712fcc7824cd2405f9898e08d7a740c7%3A1570533772385
-#EXTINF:0,Kos Mastihari
+#EXTINF:0,Κως Μαστιχάρι
 https://www.youtube.com/watch?v=SuET4hFUI6E
-#EXTINF:0,Rhodes Airport 1
+#EXTINF:0,Ρόδος Αεροδρόμιο 1
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w2083767276.m3u8
-#EXTINF:0,Rhodes Airport 2
+#EXTINF:0,Ρόδος Αεροδρόμιο 2
 https://5b8462eb3469a.streamlock.net:444/rhodesairport2/rhodesairport2.stream/chunklist_w1739075209.m3u8
-#EXTINF:0,Rhodes Airport 3
+#EXTINF:0,Ρόδος Αεροδρόμιο 3
 https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1241015144.m3u8
-#EXTINF:0,Rhodes Lindos
+#EXTINF:0,Ρόδος Λίνδος
 https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w957489464.m3u8
-#EXTINF:0,Rhodes Faliraki - Rodos Palladium
+#EXTINF:0,Ρόδος Φαληράκι Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
-#EXTINF:0,Rhodes Psaropoula
+#EXTINF:0,Ρόδος Ψαροπούλα
 http://s4.ipcamlive.com/streams/045db018a686506f1/stream.m3u8
 
