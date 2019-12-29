@@ -30,19 +30,19 @@ http://5.189.180.204:8081/live/penta1/chunks.m3u8
 #EXTINF:-1,Κοζάνη Πλατεία Νίκης
 http://5.189.180.204:8
 #EXTINF:-1,Ρόδος Αεροδρόμιο 1
-https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w2083767276.m3u8
+https://58f14b372a413.streamlock.net:444/vod/mp4:content/timelapses/rhodesairport/2019-12-28.mp4/chunklist_w711552752.m3u8
 #EXTINF:-1,Ρόδος Αεροδρόμιο 2
 https://5b8462eb3469a.streamlock.net:444/rhodesairport2/rhodesairport2.stream/chunklist_w1739075209.m3u8
 #EXTINF:-1,Ρόδος Αεροδρόμιο 3
-https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1241015144.m3u8
+https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w420076494.m3u8
 #EXTINF:-1,Ρόδος Λίνδος
-https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w957489464.m3u8
+https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w763050972.m3u8
 #EXTINF:-1,Ρόδος Πεύκοι
-https://s29.ipcamlive.com/streams/1d5dc69e1f8def98f/stream.m3u8
+https://s29.ipcamlive.com/streams/1d5e088d429081952/stream.m3u8
 #EXTINF:-1,Ρόδος Φαληράκι Rodos Palladium
 https://www.youtube.com/watch?v=s_i9wfy_8K8
 #EXTINF:-1,Ρόδος Ψαροπούλα
-http://s21.ipcamlive.com/streams/155dc38250e2810c9/stream.m3u8
+https://s21.ipcamlive.com/streams/155e00ef613393ac0/stream.m3u8
 #EXTINF:-1,Φινλανδία Χωριό Άγιου Βασίλη
 https://www.youtube.com/watch?v=7CTKu5waBao
 
