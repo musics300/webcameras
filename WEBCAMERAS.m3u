@@ -32,11 +32,11 @@ http://5.189.180.204:8
 #EXTINF:-1,Κρήτη Ηράκλειο
 https://www.youtube.com/watch?v=0yAANrJQMd0
 #EXTINF:-1,Ρόδος Αεροδρόμιο 1
-https://58f14b372a413.streamlock.net:444/vod/mp4:content/timelapses/rhodesairport/2019-12-28.mp4/chunklist_w711552752.m3u8
+https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w1084440721.m3u8
 #EXTINF:-1,Ρόδος Αεροδρόμιο 2
 https://5b8462eb3469a.streamlock.net:444/rhodesairport2/rhodesairport2.stream/chunklist_w101284892.m3u8
 #EXTINF:-1,Ρόδος Αεροδρόμιο 3
-https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w420076494.m3u8
+https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1309051699.m3u8
 #EXTINF:-1,Ρόδος Λίνδος
 https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w763050972.m3u8
 #EXTINF:-1,Ρόδος Πεύκοι
