@@ -15,6 +15,8 @@ http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 https://www.youtube.com/watch?v=lZVJlxKrrUQ
 #EXTINF:-1,Αθήνα Φάληρο
 https://www.youtube.com/watch?v=h18aHHnl8CU
+#EXTINF:-1,Αστυπάλαια
+https://frn.rtsp.me/59Vg5zwpOyu2IihQNSpklg/1581459279/hls/7A2BFHE3.m3u8
 #EXTINF:-1,Θάσος
 https://www.youtube.com/watch?v=z0sZNeSnqGU
 #EXTINF:-1,Ίος
