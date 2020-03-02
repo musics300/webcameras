@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Άνδρος
-https://www.youtube.com/watch?v=hZ6N8GLhwK0
+https://www.youtube.com/watch?v=SfO-9YUtbQY
 #EXTINF:-1,Αθήνα 17ο χλμ Αθηνών Λαμίας
 https://www.youtube.com/watch?v=pHcRtaSNWsQ
 #EXTINF:-1,Αθήνα Γήπεδο ΑΕΚ
@@ -14,13 +14,13 @@ http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 #EXTINF:-1,Αθήνα Λεωφόρος Κηφισίας Κολλέγιο
 https://www.youtube.com/watch?v=lZVJlxKrrUQ
 #EXTINF:-1,Αθήνα Φάληρο
-https://www.youtube.com/watch?v=h18aHHnl8CU
+https://www.youtube.com/watch?v=0OIZRBSogog
 #EXTINF:-1,Αστυπάλαια
 https://frn.rtsp.me/59Vg5zwpOyu2IihQNSpklg/1581459279/hls/7A2BFHE3.m3u8
 #EXTINF:-1,Θάσος
 https://www.youtube.com/watch?v=z0sZNeSnqGU
 #EXTINF:-1,Ίος
-https://www.youtube.com/watch?v=8wBfEsPvJBI
+https://www.youtube.com/watch?v=-kfZVv80i64
 #EXTINF:-1,Κοζάνη Βλάστη
 http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 #EXTINF:-1,Κοζάνη Νεράιδα
@@ -42,11 +42,11 @@ https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunkl
 #EXTINF:-1,Ρόδος Λίνδος
 https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w763050972.m3u8
 #EXTINF:-1,Ρόδος Πεύκοι
-https://s29.ipcamlive.com/streams/1d5e396dfef003aad/stream.m3u8
+https://s29.ipcamlive.com/streams/1d5e5c884811a43a5/stream.m3u8
 #EXTINF:-1,Ρόδος Φαληράκι Rodos Palladium
 https://www.youtube.com/watch?v=49Uyt7XBvWw
 #EXTINF:-1,Ρόδος Ψαροπούλα
-https://s21.ipcamlive.com/streams/155e501b7790ee15a/stream.m3u8
+http://s21.ipcamlive.com/streams/155e5b3dc4b133ee2/stream_0047174_L1980.ts
 
 
 
