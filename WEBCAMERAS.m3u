@@ -15,12 +15,8 @@ http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 https://www.youtube.com/watch?v=lZVJlxKrrUQ
 #EXTINF:-1,Αθήνα Φάληρο
 https://www.youtube.com/watch?v=0OIZRBSogog
-#EXTINF:-1,Αστυπάλαια
-https://frn.rtsp.me/fDnFV3Zjzl-Y_Yauawr6Gg/1583237031/hls/7A2BFHE3.m3u8
 #EXTINF:-1,Θάσος
 https://www.youtube.com/watch?v=z0sZNeSnqGU
-#EXTINF:-1,Θεσσαλονίκη
-https://www.meteology.gr/cam/thessaloniki/index.php?t=1583146953503
 #EXTINF:-1,Ίος
 https://www.youtube.com/watch?v=-kfZVv80i64
 #EXTINF:-1,Κοζάνη Βλάστη
@@ -29,8 +25,6 @@ http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 http://5.189.180.204:8081/live/nera1/chunks.m3u8
 #EXTINF:-1,Κοζάνη Πεντάλοφος
 http://5.189.180.204:8081/live/penta1/chunks.m3u8
-#EXTINF:-1,Κρήτη Ηράκλειο
-https://www.youtube.com/watch?v=DEaIDR_mFwI
 #EXTINF:-1,Κως Καρδάμαινα
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1327603606.m3u8
 #EXTINF:-1,Κως Μαστιχάρι
@@ -43,8 +37,6 @@ https://5b8462eb3469a.streamlock.net:444/rhodesairport2/rhodesairport2.stream/ch
 https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1309051699.m3u8
 #EXTINF:-1,Ρόδος Λίνδος
 https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w763050972.m3u8
-#EXTINF:-1,Ρόδος Πεύκοι
-https://s29.ipcamlive.com/streams/1d5e5c884811a43a5/stream.m3u8
 #EXTINF:-1,Ρόδος Φαληράκι Rodos Palladium
 https://www.youtube.com/watch?v=49Uyt7XBvWw
 #EXTINF:-1,Ρόδος Ψαροπούλα
