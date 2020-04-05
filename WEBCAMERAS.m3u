@@ -22,7 +22,9 @@ http://5.189.180.204:8081/live/nera1/chunks.m3u8
 #EXTINF:-1,Κοζάνη Πεντάλοφος
 http://5.189.180.204:8081/live/penta1/chunks.m3u8
 #EXTINF:-1,Κως Καρδάμαινα
-https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1327603606.m3u8
+https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1726187872.m3u8
+#EXTINF:-1,Κως Μαστιχάρι
+https://www.youtube.com/watch?v=UMeydKSzFYE&feature=emb_logo
 #EXTINF:-1,Ρόδος Αεροδρόμιο 1
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w955475468.m3u8
 #EXTINF:-1,Ρόδος Αεροδρόμιο 2
