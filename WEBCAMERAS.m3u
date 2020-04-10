@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Αθήνα 17ο χλμ Αθηνών Λαμίας
 https://www.youtube.com/watch?v=pHcRtaSNWsQ
-#EXTINF:-1,Αθήνα Γήπεδο ΑΕΚ
+#EXTINF:-1,Αθήνα Γήπεδο ΑΕΚ1
 https://www.youtube.com/watch?v=jbz4__w3rEc
+#EXTINF:-1,Αθήνα Γήπεδο ΑΕΚ2
+https://www.youtube.com/watch?v=2rcPnIfOCj0
 #EXTINF:-1,Αθήνα Βύρωνας
 http://5.189.180.204:8081/live/vyro1/chunks.m3u8
 #EXTINF:-1,Αθήνα Υμηττός
@@ -12,7 +14,7 @@ http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 #EXTINF:-1,Αθήνα Λεωφόρος Κηφισίας Κολλέγιο
 https://www.youtube.com/watch?v=lZVJlxKrrUQ
 #EXTINF:-1,Αθήνα Φάληρο
-https://www.youtube.com/watch?v=0OIZRBSogog
+https://www.youtube.com/watch?v=vaey4OEW2k0
 #EXTINF:-1,Θάσος
 https://www.youtube.com/watch?v=z0sZNeSnqGU
 #EXTINF:-1,Κοζάνη Βλάστη
@@ -25,6 +27,8 @@ http://5.189.180.204:8081/live/penta1/chunks.m3u8
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1726187872.m3u8
 #EXTINF:-1,Κως Μαστιχάρι
 https://www.youtube.com/watch?v=UMeydKSzFYE&feature=emb_logo
+#EXTINF:-1,Λέσβος Πλωμάρι
+https://www.youtube.com/watch?v=ew8DaEPzw80
 #EXTINF:-1,Ρόδος Αεροδρόμιο 1
 https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w955475468.m3u8
 #EXTINF:-1,Ρόδος Αεροδρόμιο 2
@@ -36,7 +40,7 @@ https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunkl
 #EXTINF:-1,Ρόδος Φαληράκι Rodos Palladium
 https://www.youtube.com/watch?v=49Uyt7XBvWw
 #EXTINF:-1,Ρόδος Ψαροπούλα
-https://s21.ipcamlive.com/streams/155e89d0bebfc26dc/stream.m3u8
+http://s21.ipcamlive.com/streams/155e8c6c0025e4394/stream.m3u8
 #EXTINF:-1,Βενετία
 https://www.youtube.com/watch?v=ph1vpnYIxJk
 #EXTINF:-1,Μελβούρνη
