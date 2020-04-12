@@ -30,9 +30,9 @@ https://www.youtube.com/watch?v=UMeydKSzFYE&feature=emb_logo
 #EXTINF:-1 group-title="ΛΕΣΒΟΣ",Πλωμάρι
 https://www.youtube.com/watch?v=ew8DaEPzw80
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 1
-https://58f14b372a413.streamlock.net:444/rhodesairport/rhodesairport.stream/chunklist_w955475468.m3u8
+http://5.189.180.204:8081/live/nera1/chunks.m3u8
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 2
-https://5b8462eb3469a.streamlock.net:444/rhodesairport2/rhodesairport2.stream/chunklist_w101284892.m3u8
+http://5.189.180.204:8081/live/nera1/chunks.m3u8
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 3
 https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1309051699.m3u8
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Λίνδος
