@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=UMeydKSzFYE&feature=emb_logo
 #EXTINF:-1 group-title="ΛΕΣΒΟΣ",Πλωμάρι
 https://www.youtube.com/watch?v=ew8DaEPzw80
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 1
-#SERVICE 4097:0:19:0:0:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.youtube.com/watch?v=9FC3OUc_G74:COSMOTE PROMO
+#SERVICE 5002:0:19:0:0:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.youtube.com/watch?v=9FC3OUc_G74
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 2
 http://5.189.180.204:8081/live/nera1/chunks.m3u8
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 3
