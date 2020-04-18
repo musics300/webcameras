@@ -26,13 +26,13 @@ http://5.189.180.204:8081/live/penta1/chunks.m3u8
 #EXTINF:-1 group-title="ΚΩΣ",Καρδάμαινα
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1726187872.m3u8
 #EXTINF:-1 group-title="ΚΩΣ",Μαστιχάρι
-https://www.youtube.com/watch?v=UMeydKSzFYE&feature=emb_logo
+https://www.youtube.com/watch?v=52ZBui8v1bU
 #EXTINF:-1 group-title="ΛΕΣΒΟΣ",Πλωμάρι
-https://www.youtube.com/watch?v=ew8DaEPzw80
+https://www.youtube.com/watch?v=htzm6o3qEQ8
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 1
-#SERVICE 5002:0:19:0:0:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.youtube.com/watch?v=9FC3OUc_G74
+https://58f14b372a413.streamlock.net:444/vod/mp4:content/timelapses/visitrhodes2/2020-04-12.mp4/chunklist_w1808801319.m3u8
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 2
-http://5.189.180.204:8081/live/nera1/chunks.m3u8
+https://5b8462eb3469a.streamlock.net:444/vod/mp4:content/timelapses/rhodesairport2/2020-04-11.mp4/chunklist_w660966786.m3u8
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 3
 https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1309051699.m3u8
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Λίνδος
@@ -40,9 +40,11 @@ https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunkl
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Rodos Palladium
 https://www.youtube.com/watch?v=49Uyt7XBvWw
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Ψαροπούλα
-http://s21.ipcamlive.com/streams/155e8c6c0025e4394/stream.m3u8
+http://s21.ipcamlive.com/streams/155e9859f9255f99f/stream.m3u8
 #EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",Βενετία
 https://www.youtube.com/watch?v=ph1vpnYIxJk
+#EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",EarthTV
+https://www.youtube.com/watch?v=JlqrHo-Rsi0
 #EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",Μελβούρνη
 https://www.youtube.com/watch?v=EpvIAopAYbw
 #EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",Νέα Υόρκη
