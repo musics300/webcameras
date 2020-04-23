@@ -1,12 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ",Αχαρνές
+http://livecameras.gr:8081/live/parn1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Βύρωνας
 http://5.189.180.204:8081/live/vyro1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Γήπεδο ΑΕΚ1
 https://www.youtube.com/watch?v=jbz4__w3rEc
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Γήπεδο ΑΕΚ2
 https://www.youtube.com/watch?v=2rcPnIfOCj0
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ",Διόνυσος
+http://livecameras.gr:8081/live/dion1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Κηφισιά
 http://5.189.180.204:8081/live/kifis1/chunks.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ",Μαρκόπουλο
+http://livecameras.gr:8081/live/marko2/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Φάληρο
 https://www.youtube.com/watch?v=vaey4OEW2k0
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υμηττός
