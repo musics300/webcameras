@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ",17ο χλμ Αθηνών Λαμίας
-https://www.youtube.com/watch?v=pHcRtaSNWsQ
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Βύρωνας
 http://5.189.180.204:8081/live/vyro1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Γήπεδο ΑΕΚ1
@@ -9,14 +7,10 @@ https://www.youtube.com/watch?v=jbz4__w3rEc
 https://www.youtube.com/watch?v=2rcPnIfOCj0
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Κηφισιά
 http://5.189.180.204:8081/live/kifis1/chunks.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ",Λεωφόρος Κηφισίας Κολλέγιο
-https://www.youtube.com/watch?v=lZVJlxKrrUQ
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Φάληρο
 https://www.youtube.com/watch?v=vaey4OEW2k0
-#EXTINF:-1 group-title="ΑΤΙΙΚΗ",Υμηττός
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υμηττός
 http://5.189.180.204:8081/live/ymit1/chunks.m3u8
-#EXTINF:-1 group-title="ΘΑΣΟΣ",Hotel Angelica
-https://www.youtube.com/watch?v=z0sZNeSnqGU
 #EXTINF:-1 group-title="ΚΟΖΑΝΗ",Βλάστη
 http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 #EXTINF:-1 group-title="ΚΟΖΑΝΗ",Νεράιδα
@@ -25,8 +19,6 @@ http://5.189.180.204:8081/live/nera1/chunks.m3u8
 http://5.189.180.204:8081/live/penta1/chunks.m3u8
 #EXTINF:-1 group-title="ΚΩΣ",Καρδάμαινα
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w417154122.m3u8
-#EXTINF:-1 group-title="ΚΩΣ",Μαστιχάρι
-https://www.youtube.com/watch?v=52ZBui8v1bU
 #EXTINF:-1 group-title="ΛΕΣΒΟΣ",Πλωμάρι
 https://hddn00.liveincam.com/live.m3u8?a=8glivef1s1q9e2b99pp1b327o3
 #EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 1
