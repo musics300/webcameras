@@ -11,40 +11,52 @@ http://5.189.180.204:8081/live/kifis1/chunks.m3u8
 http://livecameras.gr:8081/live/marko2/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Ταύρος
 http://livecameras.gr:8081/live/tavr1/chunks.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υδρα
+http://livecameras.gr:8081/live/hydr1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υμηττός
 http://5.189.180.204:8081/live/ymit1/chunks.m3u8
+#EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Βλάστη
+http://5.189.180.204:8081/live/vlas1/chunks.m3u8
+#EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Νεράιδα
+http://5.189.180.204:8081/live/nera1/chunks.m3u8
+#EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Πεντάλοφος
+http://5.189.180.204:8081/live/penta1/chunks.m3u8
+#EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Πτολεμαίδα Μηλοχώρι
+http://livecameras.gr:8081/live/mhlo1/chunks.m3u8
+#EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Φλώρινα Νυμφαίο
+http://livecameras.gr:8081/live/nymf1/chunks.m3u8
 #EXTINF:-1 group-title="ΗΠΕΙΡΟΣ",Ηγουμενίτσα2
 http://livecameras.gr:8081/live/igou2/chunks.m3u8
-#EXTINF:-1 group-title="ΚΟΖΑΝΗ",Βλάστη
-http://5.189.180.204:8081/live/vlas1/chunks.m3u8
-#EXTINF:-1 group-title="ΚΟΖΑΝΗ",Νεράιδα
-http://5.189.180.204:8081/live/nera1/chunks.m3u8
-#EXTINF:-1 group-title="ΚΟΖΑΝΗ",Πεντάλοφος
-http://5.189.180.204:8081/live/penta1/chunks.m3u8
-#EXTINF:-1 group-title="ΝΗΣΙΑ",Κως Καρδάμαινα
-https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1585088203.m3u8
-#EXTINF:-1 group-title="ΝΗΣΙΑ",Σκόπελος
+#EXTINF:-1 group-title="θΕΣΣΑΛΙΑ",Σκόπελος
 http://livecameras.gr:8081/live/skop1/chunks.m3u8
-#EXTINF:-1 group-title="ΝΗΣΙΑ",Υδρα
-http://livecameras.gr:8081/live/hydr1/chunks.m3u8
+#EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Σταυρός
+http://livecameras.gr:8081/live/ithak1/chunks.m3u8
+#EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Βαθύ
+http://livecameras.gr:8081/live/ithak2/chunks.m3u8
+#EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Περαχώρι
+http://livecameras.gr:8081/live/ithak3/chunks.m3u8
+#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Κως Καρδάμαινα
+https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1585088203.m3u8
+#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Αεροδρόμιο 1
+https://58f14b372a413.streamlock.net:444/vod/mp4:content/timelapses/visitrhodes2/2020-04-12.mp4/chunklist_w1808801319.m3u8
+#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Αεροδρόμιο 2
+https://5b8462eb3469a.streamlock.net:444/vod/mp4:content/timelapses/rhodesairport2/2020-04-11.mp4/chunklist_w660966786.m3u8
+#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Αεροδρόμιο 3
+https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1309051699.m3u8
+#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Λίνδος
+https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w763050972.m3u8
+#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Ψαροπούλα
+https://s21.ipcamlive.com/streams/155ea05a9fb686ad0/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
 http://livecameras.gr:8081/live/rio1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών2
 http://livecameras.gr:8081/live/rio2/chunks.m3u8
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Πύργος Ηλείας
+http://livecameras.gr:8081/live/pirg1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Τρίπολη Αρκαδίας
 http://livecameras.gr:8081/live/trip1/chunks.m3u8
-#EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 1
-https://58f14b372a413.streamlock.net:444/vod/mp4:content/timelapses/visitrhodes2/2020-04-12.mp4/chunklist_w1808801319.m3u8
-#EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 2
-https://5b8462eb3469a.streamlock.net:444/vod/mp4:content/timelapses/rhodesairport2/2020-04-11.mp4/chunklist_w660966786.m3u8
-#EXTINF:-1 group-title="ΡΟΔΟΣ",Αεροδρόμιο 3
-https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1309051699.m3u8
-#EXTINF:-1 group-title="ΡΟΔΟΣ",Λίνδος
-https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w763050972.m3u8
-#EXTINF:-1 group-title="ΡΟΔΟΣ",Ψαροπούλα
-https://s21.ipcamlive.com/streams/155ea05a9fb686ad0/stream.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 2
 http://livecameras.gr:8081/live/leva2/chunks.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 3
