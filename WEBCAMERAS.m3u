@@ -13,6 +13,8 @@ http://livecameras.gr:8081/live/marko2/chunks.m3u8
 http://livecameras.gr:8081/live/tavr1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υμηττός
 http://5.189.180.204:8081/live/ymit1/chunks.m3u8
+#EXTINF:-1 group-title="ΗΠΕΙΡΟΣ",Ηγουμενίτσα2
+http://livecameras.gr:8081/live/igou2/chunks.m3u8
 #EXTINF:-1 group-title="ΚΟΖΑΝΗ",Βλάστη
 http://5.189.180.204:8081/live/vlas1/chunks.m3u8
 #EXTINF:-1 group-title="ΚΟΖΑΝΗ",Νεράιδα
@@ -20,9 +22,7 @@ http://5.189.180.204:8081/live/nera1/chunks.m3u8
 #EXTINF:-1 group-title="ΚΟΖΑΝΗ",Πεντάλοφος
 http://5.189.180.204:8081/live/penta1/chunks.m3u8
 #EXTINF:-1 group-title="ΝΗΣΙΑ",Κως Καρδάμαινα
-https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w417154122.m3u8
-#EXTINF:-1 group-title="ΝΗΣΙΑ",Μύκονος
-https://cdn-001.whatsupcams.com/hls/gr_mykonos03.m3u8
+https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1585088203.m3u8
 #EXTINF:-1 group-title="ΝΗΣΙΑ",Σκόπελος
 http://livecameras.gr:8081/live/skop1/chunks.m3u8
 #EXTINF:-1 group-title="ΝΗΣΙΑ",Υδρα
