@@ -44,7 +44,7 @@ https://5b8462eb3469a.streamlock.net:444/vod/mp4:content/timelapses/rhodesairpor
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Αεροδρόμιο 3
 https://58f14b372a413.streamlock.net:444/visitrhodes2/visitrhodes2.stream/chunklist_w1309051699.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Λιμάνι
-https://pluto6.cybex.gr/hls/mc143263186982801964-a.m3u8
+https://pluto6.cybex.gr/hls/mc143263186982801964.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Λίνδος
 https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w763050972.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Ψαροπούλα
