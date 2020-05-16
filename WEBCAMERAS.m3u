@@ -35,6 +35,8 @@ http://livecameras.gr:81/live/ithak1/chunks.m3u8
 http://livecameras.gr:81/live/ithak2/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Περαχώρι
 http://livecameras.gr:81/live/ithak3/chunks.m3u8
+#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Αστυπάλαια
+https://frn.rtsp.me/-JD7jzG1XYF-o9jMOgAGMw/1589745880/hls/7A2BFHE3.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Κως Καρδάμαινα
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1548202232.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Αεροδρόμιο 1
