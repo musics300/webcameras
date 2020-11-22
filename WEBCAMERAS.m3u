@@ -38,7 +38,7 @@ http://livecameras.gr:81/live/ithak3/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Κέρκυρα
 https://edge01.balticlivecam.com/blc/p_GR_Corfu_Kerkyra_Kanoni/tracks-v1/mono.m3u8?token=6a7a2e59f7e167b466fd035968f7f267%3A1606056098641
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Αστυπάλαια
-https://frn.rtsp.me/-JD7jzG1XYF-o9jMOgAGMw/1589745880/hls/7A2BFHE3.m3u8
+https://54627d4fc5996.streamlock.net/Astypalaiacam/Astypalaiacam.stream/chunklist_w299816865.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Κως Καρδάμαινα
 https://5b8462eb3469a.streamlock.net:444/visitrhodes3/visitrhodes3.stream/chunklist_w1548202232.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Αεροδρόμιο 1
