@@ -26,35 +26,33 @@ http://livecameras.gr:81/live/mhlo1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Φλώρινα Νυμφαίο
 http://livecameras.gr:81/live/nymf1/chunks.m3u8
 #EXTINF:-1 group-title="ΗΠΕΙΡΟΣ",Ηγουμενίτσα Φιλοθέη
-http://livecameras.gr:81/live/igou2/chunks.m3u8
+http://livecameras.gr:8081/live/igou2/chunks.m3u8
 #EXTINF:-1 group-title="θΕΣΣΑΛΙΑ",Σκόπελος
 http://livecameras.gr:81/live/skop1/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Σταυρός
-http://livecameras.gr:81/live/ithak1/chunks.m3u8
+http://livecameras.gr:8081/live/ithak1/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Βαθύ
-http://livecameras.gr:81/live/ithak2/chunks.m3u8
+http://livecameras.gr:8081/live/ithak2/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Περαχώρι
 http://livecameras.gr:81/live/ithak3/chunks.m3u8
-#EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Κέρκυρα
-https://edge01.balticlivecam.com/blc/p_GR_Corfu_Kerkyra_Kanoni/tracks-v1/mono.m3u8?token=6a7a2e59f7e167b466fd035968f7f267%3A1606056098641
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Αστυπάλαια
-https://54627d4fc5996.streamlock.net/Astypalaiacam/Astypalaiacam.stream/chunklist_w1946486249.m3u8
+https://54627d4fc5996.streamlock.net/Astypalaiacam/Astypalaiacam.stream/chunklist_w1313193123.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Ψαροπούλα
-http://s25.ipcamlive.com/streams/19wv1zhy5gm2unpji/stream.m3u8
+http://s25.ipcamlive.com/streams/19fnotdjyp95ixjkg/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
-http://livecameras.gr:81/live/kala1/chunks.m3u8
+http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
-http://livecameras.gr:81/live/rio1/chunks.m3u8
+http://livecameras.gr:8081/live/rio1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών2
-http://livecameras.gr:81/live/rio2/chunks.m3u8
+http://livecameras.gr:8081/live/rio2/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Πύργος Ηλείας
 http://livecameras.gr:81/live/pirg1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Τρίπολη Αρκαδίας
-http://livecameras.gr:81/live/trip1/chunks.m3u8
+http://livecameras.gr:8081/live/trip1/chunks.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 2
-http://livecameras.gr:81/live/leva2/chunks.m3u8
-#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 3
-http://livecameras.gr:81/live/leva3/chunks.m3u8
+http://livecameras.gr:8081/live/leva2/chunks.m3u8
+#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 4
+http://livecameras.gr:8081/live/leva4/chunks.m3u8
 
 
 
