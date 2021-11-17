@@ -1,42 +1,42 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Αχαρνές
-http://livecameras.gr:8081/live/parn1/chunks.m3u8
-#EXTINF:-1 group-title="ΑΤΤΙΚΗ",Βύρωνας
-http://livecameras.gr:8081/live/vyro1/chunks.m3u8
+https://livecameras.gr:30443/live/parn1/chunks.m3u8
+#EXTINF:-1 group-title="ΑΤΤΙΚΗ",Βριλήσσια
+https://livecameras.gr:30443/live/vrilis1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Διόνυσος
-http://livecameras.gr:8081/live/dion1/chunks.m3u8
+https://livecameras.gr:30443/live/dion1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Κηφισιά
-http://livecameras.gr:8081/live/kifis1/chunks.m3u8
+https://livecameras.gr:30443/live/kifis1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Μαρκόπουλο
-http://livecameras.gr:8081/live/marko2/chunks.m3u8
+https://livecameras.gr:30443/live/marko2/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Ταύρος
-http://livecameras.gr:8081/live/tavr1/chunks.m3u8
+https://livecameras.gr:30443/live/tavr1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υδρα
-http://livecameras.gr:8081/live/hydr1/chunks.m3u8
+https://livecameras.gr:30443/live/hydr1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υμηττός
-http://livecameras.gr:8081/live/ymit1/chunks.m3u8
+https://livecameras.gr:30443/live/ymit1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Βλάστη
-http://livecameras.gr:81/live/vlas1/chunks.m3u8
+https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Νεράιδα
-http://livecameras.gr:81/live/nera1/chunks.m3u8
+https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Πεντάλοφος
-http://5.189.180.204:8081/live/penta1/chunks.m3u8
+https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Πτολεμαίδα Μηλοχώρι
-http://livecameras.gr:81/live/mhlo1/chunks.m3u8
+https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Φλώρινα Νυμφαίο
-http://livecameras.gr:81/live/nymf1/chunks.m3u8
+https://livecameras.gr:30443/live/nymf1/chunks.m3u8
 #EXTINF:-1 group-title="ΗΠΕΙΡΟΣ",Ηγουμενίτσα Φιλοθέη
-http://livecameras.gr:8081/live/igou2/chunks.m3u8
+https://livecameras.gr:30443/live/igou2/chunks.m3u8
 #EXTINF:-1 group-title="θΕΣΣΑΛΙΑ",Σκόπελος
 http://livecameras.gr:81/live/skop1/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Σταυρός
-http://livecameras.gr:8081/live/ithak1/chunks.m3u8
+https://livecameras.gr:30443/live/ithak1/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Βαθύ
-http://livecameras.gr:8081/live/ithak2/chunks.m3u8
+https://livecameras.gr:30443/live/ithak2/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Πλαστρειθίας
-http://livecameras.gr:8081/live/ithak5/chunks.m3u8
+https://livecameras.gr:30443/live/ithak5/chunks.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Αστυπάλαια
-https://54627d4fc5996.streamlock.net/Astypalaiacam/Astypalaiacam.stream/chunklist_w1978743679.m3u8
+https://5a1178b42cc03.streamlock.net/Astypalaiacam/Astypalaiacam.stream/chunklist_w1479356507.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Κως
 https://www.youtube.com/watch?v=gRvq7Cyylik
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Νίσυρος
@@ -46,15 +46,15 @@ https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Νέα Μαρίνα
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Rodos Paladium
-https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
+https://www.youtube.com/watch?v=drhmo4XSVYA
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Λιμάνι
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Πεύκοι
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Χαράκι
-https://54627d4fc5996.streamlock.net/Harakicam/Harakicam.stream/chunklist_w312652463.m3u8
+https://5a1178b42cc03.streamlock.net/Harakicam/Harakicam.stream/chunklist_w1922396526.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Ψαροπούλα
-http://s1.ipcamlive.com/streams/01pifcmpu0g1qzsdj/stream.m3u8
+https://s61.ipcamlive.com/streams/3dr5gydtv8mwqju0f/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
