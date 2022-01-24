@@ -36,25 +36,27 @@ https://livecameras.gr:30443/live/ithak2/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Πλαστρειθίας
 https://livecameras.gr:30443/live/ithak5/chunks.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Αστυπάλαια
-https://5a1178b42cc03.streamlock.net/Astypalaiacam/Astypalaiacam.stream/chunklist_w1479356507.m3u8
+https://s61.ipcamlive.com/streams/3dfl9uutx8y5aqsqb/stream.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Κως
-https://www.youtube.com/watch?v=gRvq7Cyylik
+https://www.youtube.com/watch?v=bwz3OTNKKeo
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Νίσυρος
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Electra Palace
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Νέα Μαρίνα
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
+#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Elysium
+https://www.youtube.com/watch?v=V513W2TVk50
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Rodos Paladium
 https://www.youtube.com/watch?v=drhmo4XSVYA
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Λιμάνι
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Πεύκοι
-https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
+https://s61.ipcamlive.com/streams/3djszbsnzut8pvyh1/stream.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Χαράκι
 https://5a1178b42cc03.streamlock.net/Harakicam/Harakicam.stream/chunklist_w1922396526.m3u8
 #EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Ψαροπούλα
-https://s61.ipcamlive.com/streams/3dr5gydtv8mwqju0f/stream.m3u8
+http://s61.ipcamlive.com/streams/3dfl9uutx8y5aqsqb/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
