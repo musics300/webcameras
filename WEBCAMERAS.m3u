@@ -19,6 +19,8 @@ https://livecameras.gr:30443/live/tavr1/chunks.m3u8
 https://livecameras.gr:30443/live/hydr1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υμηττός
 https://livecameras.gr:30443/live/ymit1/chunks.m3u8
+#EXTINF:-1 group-title="ΒΟΡΕΙΟ ΑΙΓΑΙΟ",Θάσος
+https://www.youtube.com/watch?v=r_ql6ILPj0c
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Βλάστη
 https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Νεράιδα
@@ -39,6 +41,8 @@ https://livecameras.gr:30443/live/ithak1/chunks.m3u8
 https://livecameras.gr:30443/live/ithak2/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Πλαστρειθίας
 https://livecameras.gr:30443/live/ithak5/chunks.m3u8
+#EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Κέρκυρα
+https://www.youtube.com/watch?v=CcnlJI_UXyM
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Αστυπάλαια
 https://s61.ipcamlive.com/streams/3dfl9uutx8y5aqsqb/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κάλυμνος
@@ -54,11 +58,11 @@ https://www.youtube.com/watch?v=drhmo4XSVYA
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Λιμάνι
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Πεύκοι
-https://s61.ipcamlive.com/streams/3djszbsnzut8pvyh1/stream.m3u8
+https://s76.ipcamlive.com/streams/4clabshpitvj6eht3/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
 https://5a1178b42cc03.streamlock.net/Harakicam/Harakicam.stream/chunklist_w2033242117.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
-http://s61.ipcamlive.com/streams/3dfl9uutx8y5aqsqb/stream.m3u8
+http://s61.ipcamlive.com/streams/3drf8wqx9ehym3ws0/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
