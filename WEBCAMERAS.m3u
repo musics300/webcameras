@@ -22,19 +22,13 @@ https://livecameras.gr:30443/live/ymit1/chunks.m3u8
 #EXTINF:-1 group-title="ΒΟΡΕΙΟ ΑΙΓΑΙΟ",Θάσος
 https://www.youtube.com/watch?v=8Z0Xm0ZspNU
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Βλάστη
-https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
+https://mediacp.alphastream.eu/vlasti/vlasti.stream/chunklist_w183059230.m3u8
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Νεράιδα
 https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Πεντάλοφος
-https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
-#EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Πτολεμαίδα Μηλοχώρι
-https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
-#EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Φλώρινα Νυμφαίο
-https://livecameras.gr:30443/live/nymf1/chunks.m3u8
+https://mediacp.alphastream.eu/pentalofos/pentaloifos.stream/chunklist_w1581489187.m3u8
 #EXTINF:-1 group-title="ΗΠΕΙΡΟΣ",Ηγουμενίτσα Φιλοθέη
 https://livecameras.gr:30443/live/igou2/chunks.m3u8
-#EXTINF:-1 group-title="θΕΣΣΑΛΙΑ",Σκόπελος
-http://livecameras.gr:81/live/skop1/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Σταυρός
 https://livecameras.gr:30443/live/ithak1/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Βαθύ
@@ -44,7 +38,7 @@ https://livecameras.gr:30443/live/ithak5/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Κέρκυρα
 https://www.youtube.com/watch?v=CcnlJI_UXyM
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κάλυμνος
-http://94.23.219.56:8080/kalymnoscamport.mp4
+https://hd-auth.skylinewebcams.com/live.m3u8?a=obronevf5htdfhhjfq6td6een6
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κως
 https://www.youtube.com/watch?v=TxohVBPvt9c
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
@@ -71,6 +65,8 @@ http://livecameras.gr:8081/live/rio2/chunks.m3u8
 http://livecameras.gr:81/live/pirg1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Τρίπολη Αρκαδίας
 http://livecameras.gr:8081/live/trip1/chunks.m3u8
+#EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Θήβα
+https://livecameras.gr:30443/live/thiv1/chunks.m3u8?nimblesessionid=40411501
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 2
 http://livecameras.gr:8081/live/leva2/chunks.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 4
