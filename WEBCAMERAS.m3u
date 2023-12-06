@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",17ο χλμ Αθηνών Λαμίας
-https://www.youtube.com/watch?v=zBE4fNf-olA
+https://new.cache-stream.workers.dev/stream/UCdk9-G2bmje8kd1h1h1bfBg/live.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Αχαρνές
 https://livecameras.gr:30443/live/parn1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Βριλήσσια
@@ -20,7 +20,7 @@ https://livecameras.gr:30443/live/hydr1/chunks.m3u8
 #EXTINF:-1 group-title="ΑΤΤΙΚΗ",Υμηττός
 https://livecameras.gr:30443/live/ymit1/chunks.m3u8
 #EXTINF:-1 group-title="ΒΟΡΕΙΟ ΑΙΓΑΙΟ",Θάσος
-https://www.youtube.com/watch?v=Zksbxgm6VHA
+https://new.cache-stream.workers.dev/stream/UCUT8t0c6nWr-g-RylAZkr8g/live.m3u8
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Βλάστη
 https://mediacp.alphastream.eu/vlasti/vlasti.stream/chunklist_w183059230.m3u8
 #EXTINF:-1 group-title="ΔΥΤΙΚΗ ΜΑΚΕΔΟΝΙΑ",Κοζάνη Νεράιδα
@@ -42,7 +42,7 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=obronevf5htdfhhjfq6td6een6
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κως
 https://new.cache-stream.workers.dev/stream/UCJ9uvLVNKxixbZMHLlsS3NA/live.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
-https://s25.ipcamlive.com/streams/19wyntbpj9tfecqv0/stream.m3u8
+https://s25.ipcamlive.com/streams/19cl4ekt0riiwag3b/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
 https://new.cache-stream.workers.dev/stream/UCksRSf1FTYb6xuY-orN7xGw/live.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
@@ -77,6 +77,26 @@ https://livecameras.gr:30443/live/thiv1/chunks.m3u8?nimblesessionid=40411501
 http://livecameras.gr:8081/live/leva2/chunks.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 4
 http://livecameras.gr:8081/live/leva4/chunks.m3u8
+#EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",Live @ Santa Claus Village
+https://new.cache-stream.workers.dev/stream/UCuarPSgSklrmX2z0iA-Ua4Q/live.m3u8
+#EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",Times Square: 1540 Broadway View Live
+https://new.cache-stream.workers.dev/stream/UC1Rp_0bp86QEUt9TlMN5tlQ/live.m3u8
+#EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",The Best Of Norway's Railway Cab Views
+https://new.cache-stream.workers.dev/stream/UCj-Xm8j6WBgKY8OG7s9r2vQ/live.m3u8
+#EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",Northern Light Live Levi, Finland. North view
+https://new.cache-stream.workers.dev/stream/UC-whuqv4HIi1O9hh9CHpPJg/live.m3u8
+#EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",Tokyo Walk 24/7 - JAPAN 4K
+https://new.cache-stream.workers.dev/stream/UCZ0fkEaTm106vBdvd4PK_sA/live.m3u8
+#EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",NASA Live Stream Earth From Space / Real ISS Live Feed
+https://new.cache-stream.workers.dev/stream/UCakgsb0w7QB0VHdnCc-OVEA/live.m3u8
+#EXTINF:-1 group-title="ΕΞΩΤΕΡΙΚΟ",NYC Brooklyn Bridge & Manhattan
+https://new.cache-stream.workers.dev/stream/UCp1ojgNJ8mNWdMDsdcMRA2Q/live.m3u8
+
+
+
+
+
+
 
 
 
