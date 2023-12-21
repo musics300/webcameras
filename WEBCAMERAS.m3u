@@ -41,20 +41,38 @@ https://www.youtube.com/watch?v=CcnlJI_UXyM
 https://hd-auth.skylinewebcams.com/live.m3u8?a=obronevf5htdfhhjfq6td6een6
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κως
 https://new.cache-stream.workers.dev/stream/UCJ9uvLVNKxixbZMHLlsS3NA/live.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM1
+https://www.youtube.com/watch?v=WXn4dxTjSEs
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM2
+https://www.youtube.com/watch?v=iKdqRI9ljhg
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM3
+https://www.youtube.com/watch?v=lwOkHeH28BA
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM4
+https://www.youtube.com/watch?v=G7ODqfCsNxc
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM6
+https://www.youtube.com/watch?v=h8ZGGzCcL5g
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM7
+https://www.youtube.com/watch?v=fjVnkBkSinI
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM8
+https://www.youtube.com/watch?v=7Fa8gOr2YIM
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM9
+https://www.youtube.com/watch?v=vYd5nOYwatY
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος CAM10
+https://www.youtube.com/watch?v=VzrniPFFanA
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
-https://s25.ipcamlive.com/streams/19cl4ekt0riiwag3b/stream.m3u8
+https://s25.ipcamlive.com/streams/19qhkgufi7cl5res3/stream.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Λιμάνι
+https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Πεύκοι
+https://s61.ipcamlive.com/streams/3dicoa715grdynsmk/stream.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
+https://5a1178b42cc03.streamlock.net/Haraki_Rhodes/HarakiRhodes.stream/chunklist_w1326067735.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
+http://s61.ipcamlive.com/streams/3dpkwemcvoxfjnv1j/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
 https://new.cache-stream.workers.dev/stream/UCksRSf1FTYb6xuY-orN7xGw/live.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
 https://new.cache-stream.workers.dev/stream/UCVwale2XH1_In8HAlZIEfOA/live.m3u8
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Λιμάνι
-https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Πεύκοι
-https://s61.ipcamlive.com/streams/3do9ezg6hamcv01pw/stream.m3u8
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
-https://5a1178b42cc03.streamlock.net/Haraki_Rhodes/HarakiRhodes.stream/chunklist_w1326067735.m3u8
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
-http://s61.ipcamlive.com/streams/3devjgr6yriku08j2/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Παραλία 1
