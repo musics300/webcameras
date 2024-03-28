@@ -60,13 +60,9 @@ https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Μανδράκι 3
 https://www.youtube.com/watch?v=BM7QefFNY7c
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
-https://s25.ipcamlive.com/streams/19o1iwhkro74xsr2l/stream.m3u8
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Πλατεία Ελευθερίας
-https://hd-auth.skylinewebcams.com/live.m3u8?a=3s0chg67e9neh4qtao92nupqs0
+https://s25.ipcamlive.com/streams/19kxgtakj814nqw7c/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Φαληράκι Atalanti
 https://www.youtube.com/watch?v=aXy6DNLm5OA
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Φαληράκι Παραλία
-https://hd-auth.skylinewebcams.com/live.m3u8?a=o3ijcd51c3p6bspbnmlqfdmn26
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Παλιά Πόλη Μουσείο
 https://hd-auth.skylinewebcams.com/live.m3u8?a=e4jkr3e76lo29tiq2sv13tmnt4
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Παλιά Πόλη Ιπποκράτους
@@ -74,11 +70,11 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=0ub5147q039el3umieuiktqen0
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Περιφέρεια Parking 1
 https://www.youtube.com/watch?v=G7ODqfCsNxc
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Πεύκοι
-https://s61.ipcamlive.com/streams/3ds4pj2if8y1z9bhz/stream.m3u8
+https://s61.ipcamlive.com/streams/3dcx7nlphaq40lnoe/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
 https://5a1178b42cc03.streamlock.net/Haraki_Rhodes/HarakiRhodes.stream/chunklist_w1326067735.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
-http://s61.ipcamlive.com/streams/3dpkwemcvoxfjnv1j/stream.m3u8
+https://s61.ipcamlive.com/streams/3dfu917sy8dqecch2/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
 https://new.cache-stream.workers.dev/stream/UCksRSf1FTYb6xuY-orN7xGw/live.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
